@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:BANDWIDTH=5000000
-https://www.redbooks.site/x11.php?id=66315.m3u8
