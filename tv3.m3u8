@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-ALLOW-CACHE:YES
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:BANDWIDTH=5000000
+http://syok.tv:25461/live/farhan5/farhan5/6.m3u8
+http://syok.tv:25461/live/farhan3/farhan3/6.m3u8
+http://syok.tv:25461/live/meran/meran/6.m3u8
